@@ -1,7 +1,6 @@
-# REMA Project 2025
+# Recommendation System on Kuierc Dataset
 
-This repo contains my (Amine Mike El Mallouf) project
-for EPITA's [Recommender Systems course](https://github.com/oscar-defelice/Recommender-Systems-Course/tree/feat/new-version/src/FinalProject/project_2025).
+This project implements a recommendation system using the **Kuierc dataset**. The goal is to predict user preferences and suggest relevant items based on historical interaction data. The system utilizes collaborative filtering and content-based techniques to generate personalized recommendations. By exploring and analyzing user-item interactions, this project aims to demonstrate how recommendation algorithms can be applied to real-world scenarios such as personalized content delivery or product suggestions.
 
 ## Data analysis
 
